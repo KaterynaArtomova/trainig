@@ -330,6 +330,7 @@ return [
         'Training_TestOM' => 1,
         'Training_Dependency2' => 0,
         'Training_Dependency' => 1,
+        'Training_Test' => 1,
         'Training_AdditionalTestOM' => 1
     ]
 ];
